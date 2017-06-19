@@ -50,7 +50,8 @@ Facebook and Microsoft view software engineering as different from software/web 
 
 If you want to be a reliability engineer or operations engineer, study more from the optional list (networking, security).
 
----
+## **----------------------------------------------------------------------------**
+___
 
 ## Table of Contents
 
@@ -168,7 +169,8 @@ If you want to be a reliability engineer or operations engineer, study more from
 - [Video Series](#video-series)
 - [Computer Science Courses](#computer-science-courses)
 
----
+## **----------------------------------------------------------------------------**
+___
 
 ## Why use it?
 
@@ -180,6 +182,9 @@ memory" error, and then I'd have to find a workaround. I've used a few multidime
 thousands of associative arrays, but I've never created data structures from scratch.
 
 It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
+
+## **----------------------------------------------------------------------------**
+___
 
 ## How to use it
 
@@ -210,11 +215,17 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
+## **----------------------------------------------------------------------------**
+___
+
 ## Don't feel you aren't smart enough
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
 - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 - [Believe you can change](http://www.aaronsw.com/weblog/dweck)
+
+## **----------------------------------------------------------------------------**
+___
 
 ## About Video Resources
 
@@ -224,6 +235,8 @@ Sometimes the classes are not in session so you have to wait a couple of months,
     I'd appreciate your help to add free and always-available public sources, such as YouTube videos to accompany the online course videos.
     I like using university lectures.
 
+## **----------------------------------------------------------------------------**
+___
 
 ## Interview Process & General Interview Prep
 
@@ -242,6 +255,9 @@ Sometimes the classes are not in session so you have to wait a couple of months,
         - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
     - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
         - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.
+
+## **----------------------------------------------------------------------------**
+___
 
 ## Pick One Language for the Interview
 
@@ -265,6 +281,9 @@ Read more about choices:
 [See language resources here](programming-language-resources.md)
 
 You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
+
+## **----------------------------------------------------------------------------**
+___
 
 ## Book List
 
@@ -389,6 +408,8 @@ OR:
     - A fine book, but after working through problems on several pages I got frustrated with the Pascal, do while loops, 1-indexed arrays, and unclear post-condition satisfaction results.
     - Would rather spend time on coding problems from another book or online coding problems.
 
+## **----------------------------------------------------------------------------**
+___
 
 ## Before you Get Started
 
@@ -439,6 +460,9 @@ Take a break from programming problems for a half hour and go through your flash
 
 There are a lot of distractions that can take up valuable time. Focus and concentration are hard.
 
+## **----------------------------------------------------------------------------**
+___
+
 ## What you won't see covered
 
 These are prevalent technologies but not part of this study plan:
@@ -446,6 +470,9 @@ These are prevalent technologies but not part of this study plan:
 - SQL
 - Javascript
 - HTML, CSS, and other front-end technologies
+
+## **----------------------------------------------------------------------------**
+___
 
 ## The Daily Plan
 
@@ -477,6 +504,9 @@ You don't need to memorize the guts of every algorithm.
 
 Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then test it out on a computer.
 
+## **----------------------------------------------------------------------------**
+___
+
 ## Prerequisite Knowledge
 
 - [ ] **Learn C**
@@ -492,6 +522,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
     - [ ] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
     - [ ] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
+
+## **----------------------------------------------------------------------------**
+___
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 - nothing to implement
@@ -516,6 +549,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
     If some of the lectures are too mathy, you can jump down to the bottom and
     watch the discrete mathematics videos to get the background knowledge.
+
+## **----------------------------------------------------------------------------**
+___
 
 ## Data Structures
 
@@ -644,6 +680,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - get(key)
         - remove(key)
 
+## **----------------------------------------------------------------------------**
+___
+
 ## More Knowledge
 
 - ### Binary search
@@ -680,6 +719,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [Swap](http://bits.stephan-brumme.com/swap.html)
     - [ ] absolute value:
         - [Absolute Integer](http://bits.stephan-brumme.com/absInteger.html)
+
+## **----------------------------------------------------------------------------**
+___
 
 ## Trees
 
@@ -764,6 +806,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [ ] heap_sort() - take an unsorted array and turn it into a sorted array in-place using a max heap
             - note: using a min heap instead would save operations, but double the space needed (cannot do in-place).
 
+## **----------------------------------------------------------------------------**
+___
+
 ## Sorting
 
 - [ ] Notes:
@@ -839,6 +884,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 As a summary, here is a visual representation of [15 sorting algorithms](https://www.youtube.com/watch?v=kPRA0W1kECg).
 If you need more detail on this subject, see "Sorting" section in [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
 
+## **----------------------------------------------------------------------------**
+___
+
 ## Graphs
 
 Graphs can be used to represent many problems in computer science, so this section is long, like trees and sorting were.
@@ -896,6 +944,9 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] check for bipartite graph
 
 You'll get more graph practice in Skiena's book (see Books section below) and the interview books
+
+## **----------------------------------------------------------------------------**
+___
 
 ## Even More Knowledge
 
@@ -1184,6 +1235,9 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [ ] [Java - Sockets - Introduction (video)](https://www.youtube.com/watch?v=6G_W54zuadg&t=6s)
         - [ ] [Socket Programming (video)](https://www.youtube.com/watch?v=G75vN2mnJeQ)
 
+## **----------------------------------------------------------------------------**
+___
+
 ## System Design, Scalability, Data Handling
 - **You can expect system design questions if you have 4+ years of experience.**
 - Scalability and System Design are very large topics with many topics and resources, since
@@ -1310,7 +1364,8 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [Design a URL-shortener system: copied from above](http://www.hiredintech.com/system-design/the-system-design-process/)
         - [Design a cache system](https://www.adayinthelifeof.nl/2011/02/06/memcache-internals/)
 
----
+## **----------------------------------------------------------------------------**
+___
 
 ## Final Review
 
@@ -1324,7 +1379,8 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
 - [ ] [Sedgewick Videos - Algorithms I](https://www.coursera.org/learn/algorithms-part1)
 - [ ] [Sedgewick Videos - Algorithms II](https://www.coursera.org/learn/algorithms-part2)
 
----
+## **----------------------------------------------------------------------------**
+___
 
 ## Coding Question Practice
 
@@ -1366,6 +1422,9 @@ Supplemental:
 
 See [Book List above](#book-list)
 
+## **----------------------------------------------------------------------------**
+___
+
 ## Coding exercises/challenges
 
 Once you've learned your brains out, put those brains to work.
@@ -1400,16 +1459,24 @@ Mock Interviews:
 - [Pramp: Mock interviews from/with peers](https://www.pramp.com/) - peer-to-peer model of practice interviews
 - [Refdash: Mock interviews and expedited interviews](https://refdash.com/) - also help candidates fast track by skipping multiple interviews with tech companies.
 
+## **----------------------------------------------------------------------------**
+___
+
 ## Once you're closer to the interview
 
 - [ ] Cracking The Coding Interview Set 2 (videos):
     - [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo)
     - [Cracking the Coding Interview - Fullstack Speaker Series](https://www.youtube.com/watch?v=Eg5-tdAwclo)
 
+## **----------------------------------------------------------------------------**
+___
+
 ## Your Resume
 
 - See Resume prep items in Cracking The Coding Interview and back of Programming Interviews Exposed
 
+## **----------------------------------------------------------------------------**
+___
 
 ## Be thinking of for when the interview comes
 
@@ -1429,6 +1496,9 @@ Have a story, not just data, about something you accomplished.
 - What did you learn at [job x / project y]?
 - What would you have done better at [job x / project y]?
 
+## **----------------------------------------------------------------------------**
+___
+
 ## Have questions for the interviewer
 
     Some of mine (I already may know answer to but want their opinion or team perspective):
@@ -1442,6 +1512,9 @@ Have a story, not just data, about something you accomplished.
 - What are you working on?
 - What do you like about it?
 - What is the work life like?
+
+## **----------------------------------------------------------------------------**
+___
 
 ## Once You've Got The Job
 
@@ -1463,7 +1536,8 @@ You're never really done.
     *****************************************************************************************************
     *****************************************************************************************************
 
----
+## **----------------------------------------------------------------------------**
+___
 
 ## Additional Books
 
@@ -1478,6 +1552,9 @@ You're never really done.
     - aka the "Gang Of Four" book, or GOF
     - the canonical design patterns book
 - [ ] [UNIX and Linux System Administration Handbook, 5th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554/)
+
+## **----------------------------------------------------------------------------**
+___
 
 ## Additional Learning
 
@@ -1808,7 +1885,8 @@ software engineer, and to be aware of certain technologies and algorithms, so yo
         - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
         - Data School: http://www.dataschool.io/
 
---
+## **----------------------------------------------------------------------------**
+___
 
 ## Additional Detail on Some Subjects
 
@@ -1880,6 +1958,9 @@ software engineer, and to be aware of certain technologies and algorithms, so yo
         - [ ] [lecture begins at 35:00 (video)](https://www.youtube.com/watch?v=q7K9otnzlfE&index=9&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
         - [ ] [lecture begins at 23:50 (video)](https://www.youtube.com/watch?v=TvqIGu9Iupw&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=10)
 
+## **----------------------------------------------------------------------------**
+___
+
 ## Video Series
 
 Sit back and enjoy. "Netflix and skill" :P
@@ -1943,6 +2024,9 @@ Sit back and enjoy. "Netflix and skill" :P
 - [ ] [Mining Massive Datasets - Stanford University (94 videos)](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)
 
 - [ ] [Graph Theory by Sarada Herke (67 videos)](https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd)
+
+## **----------------------------------------------------------------------------**
+___
 
 ## Computer Science Courses
 
